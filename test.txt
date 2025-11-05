@@ -1,0 +1,4 @@
+2 º seção formador Miguel 5-11-2025
+git status mostra o estado do projeto ( ficheiros ou alterações )
+git add . adiciona todos os ficheiiros
+git 
